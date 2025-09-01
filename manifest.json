@@ -1,0 +1,1 @@
+{\n  "manifest_version": 3,\n  "name": "Lobsterfy-Labour",\n  "description": "add more lobsters to your bsky timeline",\n  "version": "1.0",\n  "permissions": ["scripting", "activeTab"],\n  "content_scripts": [\n    {\n      "matches": ["https://bsky.app/*"],\n      "js": ["content.js"]\n    }\n  ]\n}
