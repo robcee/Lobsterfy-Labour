@@ -2,6 +2,8 @@
 
 Add more lobsters to your bsky timeline!
 
+## 100% copilot generated! Use at your own risk!
+
 ## Installation
 
 1. Clone or download this repository.
